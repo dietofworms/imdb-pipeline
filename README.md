@@ -25,9 +25,7 @@ The purpose of this project is to scrape IMDB movie data, specifically user-gene
 ## Contributors
 
 | Name    | Handle        | 
-
 |---------|-------------------|
-
 |[Steven K](https://github.com/skarmaniolos)| @skarmaniolos        |
 
 ## Contact
